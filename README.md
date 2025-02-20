@@ -1,1 +1,1 @@
-[Demo Video](./demo.mov)
+[Demo Video](./demo.mp4)
