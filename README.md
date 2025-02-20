@@ -1,1 +1,1 @@
-[Demo Video](./demo.mp4)
+[Demo Video](./demo.gif)
